@@ -11,12 +11,13 @@ OrganizateAPI es una API RESTful desarrollada en .NET con Entity Framework Core 
 
 ## 📌 Requisitos
 - .NET 6 o superior instalado en tu máquina.
+- Node.js y Angular CLI instalados para ejecutar el frontend.
 
 ## ⚡ Instalación y ejecución
 
 ### 1️⃣ Clonar el repositorio
 ```sh
- git clone https://github.com/tu_usuario/OrganizateAPI.git
+ git clone https://github.com/fhaz5000/OrganizateAPI.git
  cd OrganizateAPI
 ```
 
@@ -72,6 +73,28 @@ Desde allí, puedes probar los endpoints fácilmente.
 - Entity Framework Core
 - InMemory Database
 - Swagger
+- Angular
+- Node.js
+
+## 📊 Ejecución del Frontend en Angular
+
+### 1️⃣ Clonar el repositorio del frontend
+```sh
+git clone https://github.com/fhaz5000/OrganizateFrontend.git
+cd OrganizateFrontend
+```
+
+### 2️⃣ Instalar dependencias
+```sh
+npm install
+```
+
+### 3️⃣ Ejecutar el proyecto Angular
+```sh
+ng serve
+```
+
+El frontend se ejecutará en `http://localhost:4200`.
 
 ## 📩 Contribuciones
 Si deseas contribuir, siéntete libre de hacer un fork del proyecto y enviar un Pull Request. 🚀
