@@ -81,7 +81,8 @@ Desde allí, puedes probar los endpoints fácilmente.
 ### 1️⃣ Clonar el repositorio del frontend
 ```sh
 git clone https://github.com/fhaz5000/OrganizateFrontend.git
-cd OrganizateFrontend
+cd Frontend
+cd organizate-app
 ```
 
 ### 2️⃣ Instalar dependencias
