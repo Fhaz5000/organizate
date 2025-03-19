@@ -17,8 +17,11 @@ OrganizateAPI es una API RESTful desarrollada en .NET con Entity Framework Core 
 
 ### 1️⃣ Clonar el repositorio
 ```sh
- git clone https://github.com/fhaz5000/OrganizateAPI.git
- cd OrganizateAPI
+ git clone https://github.com/Fhaz5000/organizate.git
+ cd Backend
+ cd OrganizateApi
+ cd OrganizateApi
+
 ```
 
 ### 2️⃣ Restaurar dependencias
@@ -80,7 +83,7 @@ Desde allí, puedes probar los endpoints fácilmente.
 
 ### 1️⃣ Clonar el repositorio del frontend
 ```sh
-git clone https://github.com/fhaz5000/OrganizateFrontend.git
+git clone https://github.com/Fhaz5000/organizate.git
 cd Frontend
 cd organizate-app
 ```
